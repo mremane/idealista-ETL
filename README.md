@@ -1,4 +1,4 @@
-# idealista-api-ETL
+# idealista-ETL
 >Scrapping of idealista website for garage rentals in Barcelona.
 
 JSON is processed from API and enhanced with Selenium to cover missing data fields.
