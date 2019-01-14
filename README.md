@@ -3,7 +3,7 @@
 
 JSON is processed from API and enhanced with Selenium to cover missing data fields.
 
-The API returns less information than the actual website so after API extraction, all garage URLs are HTML scrapped to gather missing features (divs) and saved on MongoDB for later processing.
+The idealista API returns less information than the actual idealista website so after API extraction, all garage URLs are HTML scrapped to gather missing features (divs) and saved on MongoDB for later processing.
 
 ### Workflow
 ``` bash
